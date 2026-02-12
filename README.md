@@ -109,3 +109,7 @@ Overall, this task helped me understand the core logic behind intelligent recomm
 
 ---
 
+# OUTPUT OF THE TASK
+
+<img width="1568" height="953" alt="Image" src="https://github.com/user-attachments/assets/414bca94-8016-4838-a6b5-11bf1858aa78" />
+<img width="1570" height="937" alt="Image" src="https://github.com/user-attachments/assets/90d20c6b-5529-4870-a3e3-ed14ec518bee" />
